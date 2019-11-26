@@ -1,14 +1,16 @@
+
 name: telegram_text_cleaning
 channels:
   - defaults
 dependencies:
+  - python=3.7.3
   - pip=19.3.1
-  - numpy=1.17.4
+  - numpy=1.16.2
   - matplotlib=3.0.1
   - pandas=0.25.3
   - nltk=3.4.5
   - scikit-learn=0.21
-  - jupyter=6.0.2
+  - jupyter=1.0.0
 
 prefix: C:\Users\simensta\Anaconda3\envs\telegram_text_cleaning
 
