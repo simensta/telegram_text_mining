@@ -1,4 +1,4 @@
-# telegram_text_cleaning
+# telegram_text_mining
 
 ## Environment Management
 
